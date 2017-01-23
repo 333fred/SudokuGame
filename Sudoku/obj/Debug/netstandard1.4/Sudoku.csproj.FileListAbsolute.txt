@@ -1,0 +1,7 @@
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\netstandard1.4\Sudoku.csprojResolveAssemblyReference.cache
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\netstandard1.4\Sudoku.AssemblyInfo.cs
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\bin\Debug\netstandard1.4\Sudoku.deps.json
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\bin\Debug\netstandard1.4\Sudoku.dll
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\bin\Debug\netstandard1.4\Sudoku.pdb
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\netstandard1.4\Sudoku.dll
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\netstandard1.4\Sudoku.pdb

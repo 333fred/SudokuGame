@@ -1,0 +1,11 @@
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\bin\Debug\netcoreapp1.0\SudokuConsoleRunner.deps.json
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\bin\Debug\netcoreapp1.0\SudokuConsoleRunner.runtimeconfig.json
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\bin\Debug\netcoreapp1.0\SudokuConsoleRunner.runtimeconfig.dev.json
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\bin\Debug\netcoreapp1.0\SudokuConsoleRunner.dll
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\bin\Debug\netcoreapp1.0\SudokuConsoleRunner.pdb
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\obj\Debug\netcoreapp1.0\SudokuConsoleRunner.csprojResolveAssemblyReference.cache
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\obj\Debug\netcoreapp1.0\SudokuConsoleRunner.AssemblyInfo.cs
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\obj\Debug\netcoreapp1.0\SudokuConsoleRunner.dll
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\obj\Debug\netcoreapp1.0\SudokuConsoleRunner.pdb
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\bin\Debug\netcoreapp1.0\Sudoku.dll
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuConsoleRunner\bin\Debug\netcoreapp1.0\Sudoku.pdb

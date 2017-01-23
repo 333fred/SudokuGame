@@ -1,0 +1,7 @@
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\netcoreapp1.0\Sudoku.csprojResolveAssemblyReference.cache
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\netcoreapp1.0\Sudoku.AssemblyInfo.cs
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\bin\Debug\netcoreapp1.0\Sudoku.deps.json
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\bin\Debug\netcoreapp1.0\Sudoku.dll
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\bin\Debug\netcoreapp1.0\Sudoku.pdb
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\netcoreapp1.0\Sudoku.dll
+c:\users\333fr\documents\visual studio 2017\Projects\Sudoku\Sudoku\obj\Debug\netcoreapp1.0\Sudoku.pdb

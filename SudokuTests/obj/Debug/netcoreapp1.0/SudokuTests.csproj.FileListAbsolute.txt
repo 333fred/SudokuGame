@@ -1,0 +1,13 @@
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\bin\Debug\netcoreapp1.0\xunit.runner.utility.dotnet.dll
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\bin\Debug\netcoreapp1.0\SudokuTests.deps.json
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\bin\Debug\netcoreapp1.0\SudokuTests.runtimeconfig.json
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\bin\Debug\netcoreapp1.0\SudokuTests.runtimeconfig.dev.json
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\bin\Debug\netcoreapp1.0\SudokuTests.dll
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\bin\Debug\netcoreapp1.0\SudokuTests.pdb
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\bin\Debug\netcoreapp1.0\Sudoku.dll
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\bin\Debug\netcoreapp1.0\Sudoku.pdb
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\obj\Debug\netcoreapp1.0\SudokuTests.csprojResolveAssemblyReference.cache
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\obj\Debug\netcoreapp1.0\SudokuTests.AssemblyInfo.cs
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\obj\Debug\netcoreapp1.0\SudokuTests.dll
+c:\Users\333fr\documents\visual studio 2017\Projects\Sudoku\SudokuTests\obj\Debug\netcoreapp1.0\SudokuTests.pdb
